@@ -1,2 +1,2 @@
 # ChatScam
-resource of ChatScam
+Resource of ChatScam
